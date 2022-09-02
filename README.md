@@ -1,2 +1,1 @@
-# alx-zero_day
-correct second repo
+My first readme
